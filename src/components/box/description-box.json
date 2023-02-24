@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_box_description_boxes",
+  "info": {
+    "displayName": "descriptionBox",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
